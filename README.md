@@ -26,7 +26,7 @@
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://user-images.githubusercontent.com/58736024/231146037-e1e7ae98-c1b5-4e7d-a59a-a10121d25175.svg" />
-</p>![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f756e6974792f756e6974792d6f726967696e616c2e737667](https://user-images.githubusercontent.com/58736024/231143791-6246d378-ca1c-42b7-b121-7ab7dcb8cd38.svg)
+</p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
