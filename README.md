@@ -16,7 +16,7 @@
 - ✏️ A CodePen of mine: [Bootstrap Form Submit Button](https://codepen.io/alexander_r/full/vYayYzZ)
 
 </p>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
