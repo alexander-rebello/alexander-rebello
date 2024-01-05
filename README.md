@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **C++ and Unreal Engine**
 
+- 🌱 I’m currently learning **React and Next.js**
+
 - 💬 I'm good at **HTML, CSS, PHP, Java and Sql**
 
 - 📫 How to reach me over Discord: **[Alex\_#1552](https://discord.com/users/652141098650697729)**
@@ -16,6 +18,7 @@
 - ✏️ A CodePen of mine: [Bootstrap Form Submit Button](https://codepen.io/alexander_r/full/vYayYzZ)
 
 </p>
+
 <h3 align="center">Languages:</h3>
 <p align="center">
     <img width="40px" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
