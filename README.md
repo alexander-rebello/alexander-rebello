@@ -53,4 +53,4 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-rebello&show_icons=true&locale=en&theme=github_dark" alt="alexander-rebello" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-rebello&show_icons=true&locale=en&theme=cobalt2&include_all_commits=true" alt="alexander-rebello" />
