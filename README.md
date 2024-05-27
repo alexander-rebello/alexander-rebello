@@ -62,9 +62,9 @@
 
 <p align="center">
     <a href="https://github.com/alexander-rebello">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-rebello&show_icons=true&locale=en&theme=react&include_all_commits=true" alt="alexander-rebello" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-rebello&count_private=true&show_icons=true&locale=en&theme=react&include_all_commits=true" alt="alexander-rebello" />
     </a>
     <a href="https://github.com/alexander-rebello">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-rebello&layout=compact&langs_count=8&theme=react" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-rebello&theme=react&count_private=true&layout=compact&langs_count=8&card_width=320" />
     </a>
 </p>
