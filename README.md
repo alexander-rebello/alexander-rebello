@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alex</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=A+learning+developer+from+Germany;Interested+in+many+things;Always+learning+something+new" alt="Typing SVG" /></a></h3>
-
-- 🔭 I’m currently working on **[Gatekeeper Events](https://www.gatekeeper-events.de/)**
   
 - 🌱 I’m currently learning **best practices for databases**
 
@@ -61,9 +59,6 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/alexander-rebello">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-rebello&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="alexander-rebello" />
-    </a>
     <a href="https://github.com/alexander-rebello">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander-rebello&theme=react&count_private=true&layout=compact&langs_count=8&card_width=320" />
     </a>
